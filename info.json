@@ -1,11 +1,7 @@
 {
-	"name": "Jamie",
-	"website": "jyaymie.netlify.app",
-    "github": "jyaymie",
-	"proficientTechnologies": [
-		"Javascript",
-		"React",
-		"Node",
-	],
+	"name": "Jamie Park",
+	"website": "https://jyaymie.netlify.app",
+	"github": "jyaymie",
+	"proficientTechnologies": ["Javascript", "React", "Node"],
 	"otherSkills": ["Making poached eggs"]
 }

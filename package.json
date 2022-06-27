@@ -1,12 +1,12 @@
 {
-	"name": "jamie-resume",
+	"name": "jamie-park-resume",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "",
+	"author": "Jamie Park",
 	"license": "ISC",
 	"bin": {
 		"your-command-here": "./index.js"
