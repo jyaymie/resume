@@ -1,0 +1,11 @@
+{
+	"name": "Jamie",
+	"website": "jyaymie.netlify.app",
+    "github": "jyaymie",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Node",
+	],
+	"otherSkills": ["Making poached eggs"]
+}
