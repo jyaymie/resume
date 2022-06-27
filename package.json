@@ -1,6 +1,6 @@
 {
 	"name": "jamie-park-resume",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -9,6 +9,6 @@
 	"author": "Jamie Park",
 	"license": "ISC",
 	"bin": {
-		"your-command-here": "./index.js"
+		"show-resume": "./index.js"
 	}
 }
